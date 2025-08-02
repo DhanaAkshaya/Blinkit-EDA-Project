@@ -10,7 +10,7 @@ This project performs exploratory data analysis (EDA) on Blinkit's sales data to
 
 ## *Objectives*
 
-Understand sales distribution across categories and time periods
+Understand sales distribution across categories and Outlets
 
 Identify top-performing products and regions
 
